@@ -1,0 +1,66 @@
+7-Up : 0 %ABV
+Advocaat : 17 %ABV
+Amaretto : 28 %ABV
+Anisette : 30 %ABV
+Bailey's : 17 %ABV
+Bailey's whipped cream : 0 %ABV
+Benedictine : 40 %ABV
+Bourbon : 70 %ABV
+Cafe Royale : 8.5 %ABV
+Chartreuse : 55 %ABV
+Cointreau : 40 %ABV
+Cream Grand Marnier : 40 %ABV
+Drambuie : 40 %ABV
+Frangelico : 24 %ABV
+Glayva : 35 %ABV
+Grand Marnier : 40 %ABV
+Irish Mist : 35 %ABV
+Irish whiskey : 40 %ABV
+Jack Daniels : 40 %ABV
+Kahlua : 27 %ABV
+Ouzo : 40 %ABV
+Parfait Amour : 30 %ABV
+Pernod : 68 %ABV
+Sambuca : 40 %ABV
+Sloe gin : 30 %ABV
+Southern Comfort : 35 %ABV
+Swiss Chocolate Almond : 25 %ABV
+Swiss Chocolate liqueur : 25 %ABV
+Tia Maria : 27 %ABV
+Triple Sec : 30 %ABV
+Yukon Jack : 50 %ABV
+apricot brandy : 40 %ABV
+blueberry liqueur : 25 %ABV
+brandy : 40 %ABV
+brown creme de cacao : 25 %ABV
+brown creme de menthe : 25 %ABV
+cherry brandy : 40 %ABV
+cinnamon schnapps : 30 %ABV
+clamato juice : 0 %ABV
+coconut rum : 45 %ABV
+cognac : 40 %ABV
+cream : 0 %ABV
+creme de banana : 30 %ABV
+dark creme de cacao : 25 %ABV
+dark rum : 45 %ABV
+dry vermouth : 16 %ABV
+gin : 37.5 %ABV
+green creme de menthe : 25 %ABV
+grenadine : 0 %ABV
+lime cordial : 0 %ABV
+lime juice : 0 %ABV
+melon liqueur : 25 %ABV
+orange juice : 0 %ABV
+peach schnapps : 30 %ABV
+pear liqueur : 25 %ABV
+peppermint schnapps : 30 %ABV
+pineapple juice : 0 %ABV
+rye whiskey : 80 %ABV
+scotch : 40 %ABV
+soda water : 0 %ABV
+strawberry liqueur : 25 %ABV
+tequila : 45 %ABV
+vodka : 40 %ABV
+white creme de cacao : 25 %ABV
+white creme de menthe : 25 %ABV
+white rum : 40 %ABV
