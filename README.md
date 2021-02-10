@@ -8,3 +8,4 @@
 3. The file will find the total percent of alcohol by volume (ABV) for each shooter, and sorts the recipes from smallest total ABV to largest.  
 
 ## Screen Shot Image
+![Screen Shot 2021-02-10 at 4 50 40 PM](https://user-images.githubusercontent.com/75402947/107577221-2abf3900-6bc0-11eb-9891-3e36902fc3d7.png)
